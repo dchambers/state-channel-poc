@@ -1,0 +1,14 @@
+name = "dchambers/state-channel-poc"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'dchambers/state-channel-poc'"
+
+[repository]
+user = "dchambers"
+project = "state-channel-poc"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.6.0"
+source = "github"

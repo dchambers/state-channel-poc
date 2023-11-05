@@ -1,0 +1,14 @@
+{
+  "preamble": {
+    "title": "dchambers/state-channel-poc",
+    "description": "Aiken contracts for project 'dchambers/state-channel-poc'",
+    "version": "0.0.0",
+    "plutusVersion": "v2",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.0.20-alpha+49bd4ba"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": []
+}
